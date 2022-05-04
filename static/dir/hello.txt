@@ -1,0 +1,2 @@
+hello.txt in static/dir folder
+changed it
